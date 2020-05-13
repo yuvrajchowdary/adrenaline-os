@@ -1,9 +1,5 @@
 # What is this ?
 
-* A simple kernel written in Rust for the purpose of learning Rust.
+* A simple Os written in Rust.
 
 I am following this : https://os.phil-opp.com/second-edition/
-
-# Status.
-
-* For now, it just prints "Hello SimbaOS"
